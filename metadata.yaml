@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32429
     wikipedia: http://en.wikipedia.org/wiki/Adam_Mickiewicz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27723#Moja-Pierwsza-Bitwa--Opowiadanie-Sier-anta
 gutenberg_issued: '2009-01-06'
 gutenberg_type: Text
 identifiers:
